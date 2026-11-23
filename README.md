@@ -60,10 +60,6 @@ if (currentMillis - lastTime >= INTERVAL) {
 
 The `Servo` library is built into the Arduino IDE, so no extra installation is needed.
 
-## Demo
-
-Add a short video or GIF of the project running here.
-
 ## What I Learned
 
 - Non-blocking multitasking with `millis()`

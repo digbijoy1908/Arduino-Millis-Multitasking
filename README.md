@@ -85,3 +85,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Author
 
 **Digbijoy Chakroborty**
+### Email: digbijoycb1908@gmail.com

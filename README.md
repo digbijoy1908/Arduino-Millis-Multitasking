@@ -32,6 +32,10 @@ if (currentMillis - lastTime >= INTERVAL) {
 - 1 servo motor (SG90 or similar)
 - Breadboard and jumper wires
 
+## Circuit Diagram
+
+![alt]([https://github.com/digbijoy1908/Arduino-Millis-Multitasking/blob/0b53331dcc060064ece0ab2248c8dfcf0b0559b7/Circuit_Diagram.jpg])
+
 ## Pin Connections
 
 | Component | Arduino Pin | Notes |
@@ -44,13 +48,8 @@ if (currentMillis - lastTime >= INTERVAL) {
 
 > **Tip:** If the servo jitters or the board resets, power the servo from an external 5V supply and connect its GND to the Arduino GND.
 
-## Circuit Diagram
 
-Add your wiring diagram or a photo of the circuit here:
 
-```
-![Circuit diagram](images/circuit.png)
-```
 
 ## How to Run
 

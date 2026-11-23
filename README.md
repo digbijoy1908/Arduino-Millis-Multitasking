@@ -1,7 +1,7 @@
 # Arduino-Millis-Multitasking
 A beginner-friendly Arduino project that runs **four tasks at the same time** using `millis()` instead of `delay()`. It shows how non-blocking code lets an Arduino blink, fade, read a button, and move a servo all at once.
 
-![alt]([images/circuit.png](https://github.com/digbijoy1908/Arduino-Millis-Multitasking/blob/4b59c5bf421aa60eb53fbd2336bdd87ebdc73d6a/Project_Image.jpg))
+![alt](images/circuit.png](https://github.com/digbijoy1908/Arduino-Millis-Multitasking/blob/4b59c5bf421aa60eb53fbd2336bdd87ebdc73d6a/Project_Image.jpg))
 
 ## Features
 
